@@ -148,7 +148,7 @@ public class ProgramofFunction {
         System.out.println("The surface area of the sphere is: " + surfaceArea);
     }
 
-    // Custom method for integer exponentiation using multiplication
+
     public static double calculatePower(double base, int exponent) {
         double result = 1;
         for (int i = 0; i < exponent; i++) {
